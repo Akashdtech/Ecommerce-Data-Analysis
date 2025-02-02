@@ -1,26 +1,27 @@
 # Ecommerce-Data-Analysis
 This project explores an E-Commerce dataset from Kaggle, performing Exploratory Data Analysis (EDA) to uncover key insights that can drive business decisions. The dataset consists of online transactions from a UK-based retailer, and this analysis helps in understanding customer behavior, revenue patterns, product demand, and operational inefficiencies.
 
-Project Objectives:
+Data Cleaning & Preprocessing:
 
-    Data Cleaning & Preprocessing
-        Handling missing values and removing redundant columns.
-        Filtering out anomalies like negative quantities (returns).
-        Creating new features such as Total Price, Hour, Day, and Month for deeper analysis.
-        Ensuring proper data types, including datetime conversion.
+    Handling missing values and removing redundant columns.
+    Filtering out anomalies like negative quantities (returns).
+    Creating new features such as Total Price, Hour, Day, and Month for deeper analysis.
+    Ensuring proper data types, including datetime conversion.
 
-    Exploratory Data Analysis (EDA)
-        Understanding Price & Quantity Distribution: Identifying outliers and general purchasing trends.
-        Correlation Analysis: Evaluating relationships between numerical features like unit price, total price, and quantity.
-        Country-Wise Insights: Identifying the top markets based on transaction volume.
-        Revenue Trends: Analyzing revenue distribution by hour of the day and month of the year.
+Exploratory Data Analysis (EDA):
 
-    Business-Centric Insights
-        Top Revenue-Generating Countries (excluding the UK) for potential market expansion.
-        Frequent Product Pairings to assist in cross-selling and bundling strategies.
-        Peak Sales Hours to optimize marketing and inventory planning.
-        Top High-Value Customers for designing loyalty programs.
-        Product Returns Analysis to reduce return rates and improve customer satisfaction.
+    Understanding Price & Quantity Distribution: Identifying outliers and general purchasing trends.
+    Correlation Analysis: Evaluating relationships between numerical features like unit price, total price, and quantity.
+    Country-Wise Insights: Identifying the top markets based on transaction volume.
+    Revenue Trends: Analyzing revenue distribution by hour of the day and month of the year.
+
+Business-Centric Insights:
+
+    Top Revenue-Generating Countries (excluding the UK) for potential market expansion.
+    Frequent Product Pairings to assist in cross-selling and bundling strategies.
+    Peak Sales Hours to optimize marketing and inventory planning.
+    Top High-Value Customers for designing loyalty programs.
+    Product Returns Analysis to reduce return rates and improve customer satisfaction.
 
 Visualizations & Key Findings:
 
